@@ -1,4 +1,4 @@
-# XBMC Media Center language file
+# XBMC Media Centre language file
 # Addon Name: fTV
 # Addon id: skin.ftv
 # Addon Provider: Hitcher
@@ -73,7 +73,7 @@ msgid "Current selection"
 msgstr ""
 
 msgctxt "#31014"
-msgid "Next Movie"
+msgid "Next Film"
 msgstr ""
 
 msgctxt "#31015"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "#31035"
 msgid ""
-"Runs Artwork Downloader in the background to fetch TV Show logos needed for "
+"Runs Artwork Downloader in the background to fetch TV Series logos needed for "
 "wide icons."
 msgstr ""
 
@@ -319,7 +319,7 @@ msgid "Next episode"
 msgstr ""
 
 msgctxt "#31074"
-msgid "Browse[CR]TV Show"
+msgid "Browse[CR]TV Series"
 msgstr ""
 
 msgctxt "#31075"
@@ -339,11 +339,11 @@ msgid "Sorry, we have no items for this title."
 msgstr ""
 
 msgctxt "#31079"
-msgid "Movie Widget"
+msgid "Film Widget"
 msgstr ""
 
 msgctxt "#31080"
-msgid "TV Show Widget"
+msgid "TV Series Widget"
 msgstr ""
 
 msgctxt "#31081"
@@ -562,15 +562,15 @@ msgid "Hide Unwatched Episode Thumbs"
 msgstr ""
 
 msgctxt "#31131"
-msgid "Enable Wide TV Show Icons"
+msgid "Enable Wide TV Series Icons"
 msgstr ""
 
 msgctxt "#31132"
-msgid "Click to download TV Show logos"
+msgid "Click to download TV Series logos"
 msgstr ""
 
 msgctxt "#31133"
-msgid "Enable Wide Season Icons"
+msgid "Enable Wide Series Icons"
 msgstr ""
 
 msgctxt "#31134"
@@ -706,67 +706,67 @@ msgid "Open[CR]Visualiser"
 msgstr ""
 
 msgctxt "#31167"
-msgid "Recently Added Movies"
+msgid "Recently Added Films"
 msgstr ""
 
 msgctxt "#31168"
-msgid "Your Movies"
+msgid "Your Films"
 msgstr ""
 
 msgctxt "#31169"
-msgid "In Progress Movies"
+msgid "In Progress Films"
 msgstr ""
 
 msgctxt "#31170"
-msgid "Kids Movies"
+msgid "Kids Films"
 msgstr ""
 
 msgctxt "#31171"
-msgid "Action and Adventure Movies"
+msgid "Action and Adventure Films"
 msgstr ""
 
 msgctxt "#31172"
-msgid "Comedy Movies"
+msgid "Comedy Films"
 msgstr ""
 
 msgctxt "#31173"
-msgid "Sci-Fi Movies"
+msgid "Sci-Fi Films"
 msgstr ""
 
 msgctxt "#31174"
-msgid "Top Rated Movies"
+msgid "Top Rated Films"
 msgstr ""
 
 msgctxt "#31175"
-msgid "Recently Updated TV Shows"
+msgid "Recently Updated TV Series"
 msgstr ""
 
 msgctxt "#31176"
-msgid "Your TV Shows"
+msgid "Your TV Series"
 msgstr ""
 
 msgctxt "#31177"
-msgid "In Progress TV Shows"
+msgid "In Progress TV Series"
 msgstr ""
 
 msgctxt "#31178"
-msgid "Kids TV Shows"
+msgid "Kids TV Series"
 msgstr ""
 
 msgctxt "#31179"
-msgid "Action and Adventure TV Shows"
+msgid "Action and Adventure TV Series"
 msgstr ""
 
 msgctxt "#31180"
-msgid "Comedy TV Shows"
+msgid "Comedy TV Series"
 msgstr ""
 
 msgctxt "#31181"
-msgid "Sci-Fi TV Shows"
+msgid "Sci-Fi TV Series"
 msgstr ""
 
 msgctxt "#31182"
-msgid "Top Rated TV Shows"
+msgid "Top Rated TV Series"
 msgstr ""
 
 msgctxt "#31183"
